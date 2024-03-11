@@ -1,0 +1,9 @@
+{
+  "item.c_ender_eye.c_ender_eye": "Crystalline Eye of Ender",
+  "text.c_ender_eye.write_pos.success": "Successfully Write Position!",
+  "text.c_ender_eye.write_pos.fail": "Failed to Write Position!",
+  "text.c_ender_eye.fixed_point_warp.disabled": "Fixed Point Warp Disabled!",
+  "text.c_ender_eye.fixed_point_warp.out_of_range": "Fixed Point Warp Out of Range!",
+  "text.c_ender_eye.random_warp.disabled": "Random Warp Disabled!",
+  "text.c_ender_eye.dimensional_warp.disabled": "Dimensional Warp Disabled!"
+}

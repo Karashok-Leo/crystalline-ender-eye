@@ -1,0 +1,34 @@
+{
+	"schemaVersion": 1,
+	"id": "c_ender_eye",
+	"version": "${version}",
+	"name": "Crystalline Ender Eye",
+	"description": "Crystalline Ender Eye",
+	"authors": [
+		"Karashok-Leo"
+	],
+	"contact": {
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "GPLv3",
+	"icon": "assets/c_ender_eye/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.karashokleo.c_ender_eye.CrystallineEnderEye"
+		],
+		"modmenu": [
+			"net.karashokleo.c_ender_eye.ModMenuIntegration"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.15.7",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*",
+		"cloth-config": "*"
+	},
+	"suggests": {
+		"modmenu": "*"
+	}
+}

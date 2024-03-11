@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "c_ender_eye:item/c_ender_eye"
+  }
+}

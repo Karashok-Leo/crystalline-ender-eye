@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "000",
+    "010",
+    "000"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "1": {
+      "item": "minecraft:ender_eye"
+    }
+  },
+  "result": {
+    "item": "c_ender_eye:c_ender_eye",
+    "count": 1
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "item.c_ender_eye.c_ender_eye": "晶化末影之眼",
+  "text.c_ender_eye.write_pos.success": "写入位置成功!",
+  "text.c_ender_eye.write_pos.fail": "写入位置失败!",
+  "text.c_ender_eye.fixed_point_warp.disabled": "定点传送已被禁用!",
+  "text.c_ender_eye.fixed_point_warp.out_of_range": "定点传送超出范围!",
+  "text.c_ender_eye.random_warp.disabled": "随机传送已被禁用!",
+  "text.c_ender_eye.dimensional_warp.disabled": "跨维度传送已被禁用!"
+}
