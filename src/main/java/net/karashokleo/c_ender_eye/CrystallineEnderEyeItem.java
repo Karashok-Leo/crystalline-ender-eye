@@ -101,9 +101,12 @@ public class CrystallineEnderEyeItem extends Item
     @SuppressWarnings("unused")
     public static ActionResult attack(PlayerEntity player, World world, Hand hand, Entity entity, HitResult hitResult)
     {
-        if (!world.isClient() && (entity.isAttackable()) && (entity instanceof LivingEntity target))
+        ItemStack stack = player.getStackInHand(hand);
+        if (!world.isClient() &&
+                stack.getItem() instanceof CrystallineEnderEyeItem &&
+                entity.isAttackable() &&
+                entity instanceof LivingEntity target)
         {
-            ItemStack stack = player.getStackInHand(hand);
             boolean randomWarp = false;
             boolean fixedPointWarp = false;
             NbtCompound pos = stack.getSubNbt(POS_KEY);
