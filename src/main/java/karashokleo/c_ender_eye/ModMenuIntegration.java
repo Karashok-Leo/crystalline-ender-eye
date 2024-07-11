@@ -1,4 +1,4 @@
-package net.karashokleo.c_ender_eye;
+package karashokleo.c_ender_eye;
 
 import com.terraformersmc.modmenu.api.ConfigScreenFactory;
 import com.terraformersmc.modmenu.api.ModMenuApi;

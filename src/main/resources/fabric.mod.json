@@ -15,10 +15,10 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"net.karashokleo.c_ender_eye.CrystallineEnderEye"
+			"karashokleo.c_ender_eye.CrystallineEnderEye"
 		],
 		"modmenu": [
-			"net.karashokleo.c_ender_eye.ModMenuIntegration"
+			"karashokleo.c_ender_eye.ModMenuIntegration"
 		]
 	},
 	"depends": {

@@ -1,4 +1,4 @@
-package net.karashokleo.c_ender_eye;
+package karashokleo.c_ender_eye;
 
 import me.shedaniel.autoconfig.AutoConfig;
 import me.shedaniel.autoconfig.serializer.GsonConfigSerializer;
